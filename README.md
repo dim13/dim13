@@ -32,7 +32,7 @@ A tiny excerpt, what you can find here:
 
 ### Framing protocols
 
-- [sfp](https://pkg.go.dev/github.com/dim13/spf)
+- [sfp](https://pkg.go.dev/github.com/dim13/sfp)
   Serial Framing Protocol [rfc1662](https://tools.ietf.org/html/rfc1662)
 - [cobs](https://pkg.go.dev/github.com/dim13/cobs)
   Consistent Overhead Byte Stuffing
