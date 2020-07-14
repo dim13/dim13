@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A tiny excerpt, what you can find here:
+A tiny excerpt, of what you can find here:
 
 ### Non-cryptographic `hash.Hash` functions
 
