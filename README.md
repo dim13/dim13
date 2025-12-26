@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Converting caffee to [Go](https://go.dev/) since [r56](https://go.dev/doc/devel/pre_go1#r56).
+Converting coffee to [Go](https://go.dev/) since [r56](https://go.dev/doc/devel/pre_go1#r56).
 
 <!--
 **dim13/dim13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
